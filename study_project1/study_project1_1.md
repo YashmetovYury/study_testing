@@ -13,7 +13,7 @@
 * Мы ожидаем от вас список проверок функционала личного кабинета без учета хедера и футера страницы.
 
 **[РЕШЕНИЕ. ЧЕК-ЛИСТ.](https://docs.google.com/spreadsheets/d/1a32UU8CHF4Rx8i-189s2_uRyLRiZiOsYO0BpPqR0mck/edit?usp=sharing)**
-**[РЕШЕНИЕ. ЧЕК-ЛИСТ.]
+**[РЕШЕНИЕ. ЧЕК-ЛИСТ.](https://docs.google.com/spreadsheets/d/1qMIOMTjThoQWSG8t2lTuN269WuSP-lP3cQuaoYDBW_Q/edit#gid=1798737482)**
 
 ## Задание 2
 
